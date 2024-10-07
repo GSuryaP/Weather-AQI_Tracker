@@ -6,4 +6,4 @@ The Python script creates a Tkinter-based application focused on environmental i
 ![image](https://github.com/user-attachments/assets/36dc099d-f6c6-4555-8533-e63b6786025f)
 ![image](https://github.com/user-attachments/assets/d917dec4-bca6-4edd-8f2c-a0814c64b564)
 ![image](https://github.com/user-attachments/assets/f1b8463a-3583-4f2c-a04e-933c50e4a02e)
-![image](https://github.com/user-attachments/assets/cd78e541-e477-4d83-aacc-95827f1c4cce)
+
